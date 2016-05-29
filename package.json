@@ -1,0 +1,22 @@
+{
+  "name": "arepl",
+  "version": "0.0.1",
+  "description": "Another REPL.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codehz/arepl.git"
+  },
+  "keywords": [
+    "repl"
+  ],
+  "author": "CodeHz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codehz/arepl/issues"
+  },
+  "homepage": "https://github.com/codehz/arepl#readme"
+}
